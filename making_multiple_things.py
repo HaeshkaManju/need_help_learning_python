@@ -2,9 +2,13 @@
 # Make a Hero, then make more
 Goal: Allow the player in this game to setup multiple heroes for their team, but without me needing to know, in advance, how many there wil be.
 
-Problem: I don't know how many (could be between 0-? - typically not more than 15, but there's no technical limit) heroes, and thus I don't know how to "add" to my lists/dictionaries without having pre-written variables.
+Problem: I don't know how many (could be between 0-? - typically not more than 15, but there's no technical limit) heroes, 
+and thus I don't know how to "add" to my lists/dictionaries without having pre-written variables.
 
-Some Stipulations: I'm trying to do this WITHOUT going into Classes, as I'm still getting up to that point, want to be able to make the mini version of my game without using classes at all, then update and add classes.  Reason: Want to learn from the most basic and steadily work up to more advanced topics, and right now classes make me want to eat cyanide.
+Some Stipulations: I'm trying to do this WITHOUT going into Classes, as I'm still getting up to that point, 
+want to be able to make the mini version of my game without using classes at all, then update and add classes.  
+Reason for stipulation: Want to learn from the most basic and steadily work up to more advanced topics, 
+and right now classes make me want to eat cyanide.
 
 Here is what I *THINK* the data should approximately look like in a given example.
 
