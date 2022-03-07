@@ -30,7 +30,8 @@ All_of_the_Heroes = [
     },
 ]
 
-Prenotes before reading the code: yes, I can use functions.  And, I do in the actual game code, but this is broken out into very simplistic steps for sheer readability.
+Prenotes before reading the code: yes, I can use functions.  And, I do in the actual game code, 
+but this is broken out into very simplistic steps for sheer readability.
 
 All of the code below works perfectly for making a sinlge hero.
 '''
